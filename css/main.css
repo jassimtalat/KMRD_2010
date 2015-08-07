@@ -1,0 +1,52 @@
+
+
+
+
+/* Paragraphs */
+p {margin-bottom: 1.143em;}
+* p:last-child {margin-bottom: 0;}
+
+strong, b {font-weight: bold;}
+em, i {font-style: italic;}
+
+::-moz-selection {background: #f2cd50; color: #fff;}
+::selection {background: #f2cd50; color: #fff;}
+
+/* Lists */
+ul {
+	list-style: outside disc;
+	margin: 1em 0 1.5em 1.5em;
+}
+
+ol {
+	list-style: outside decimal;
+	margin: 1em 0 1.5em 1.5em;
+}
+
+dl {margin: 0 0 1.5em 0;}
+dt {font-weight: bold;}
+dd {margin-left: 1.5em;}
+
+/* Quotes */
+blockquote {font-style: italic;}
+cite {}
+
+q {}
+
+/* Tables */
+table {margin: .5em auto 1.5em auto; width: 98%;}
+
+	/* Thead */
+	thead th {padding: .5em .4em; text-align: left;}
+	thead td {}
+
+	/* Tbody */
+	tbody td {padding: .5em .4em;}
+	tbody th {}
+
+	tbody .alt td {}
+	tbody .alt th {}
+
+	/* Tfoot */
+	tfoot th {}
+	tfoot td {}

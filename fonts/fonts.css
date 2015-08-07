@@ -1,0 +1,48 @@
+
+@font-face {
+	font-family: 'HelveticaLightNormalRegular';
+	src: url('helvetica_light-normal-webfont.eot');
+	src: local('HelveticaLightNormal'), local('HelveticaLightNormal'), url('helvetica_light-normal-webfont.woff') format('woff'), url('helvetica_light-normal-webfont.ttf') format('truetype'), url('helvetica_light-normal-webfont.svg#webfont26HZq7O4') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HelveticaNormalRegular';
+	src: url('helvetica-normal-webfont.eot');
+	src: local('HelveticaNormal'), local('HelveticaNormal'), url('helvetica-normal-webfont.woff') format('woff'), url('helvetica-normal-webfont.ttf') format('truetype'), url('helvetica-normal-webfont.svg#webfont8mDfemzU') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HelveticaLTStdLight';
+	src: url('helveticaltstd-light-webfont.eot');
+	src: local('Helvetica LT Std'), local('HelveticaLTStdLight'), url('helveticaltstd-light-webfont.woff') format('woff'), url('helveticaltstd-light-webfont.ttf') format('truetype'), url('helveticaltstd-light-webfont.svg#webfontN07s3gfD') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HelveticaLight';
+	src: url('helveticalt-webfont.eot');
+	src: local('Helvetica'), local('HelveticaLight'), url('helveticalt-webfont.woff') format('woff'), url('helveticalt-webfont.ttf') format('truetype'), url('helveticalt-webfont.svg#webfontn7x2IIqb') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HelveticaLTStdRoman';
+	src: url('helveticaltstd-roman-webfont.eot');
+	src: local('Helvetica LT Std'), local('HelveticaLTStdRoman'), url('helveticaltstd-roman-webfont.woff') format('woff'), url('helveticaltstd-roman-webfont.ttf') format('truetype'), url('helveticaltstd-roman-webfont.svg#webfontJkjD1Qjz') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HelveticaLTStdCondensed';
+	src: url('helveticaltstd-cond-webfont.eot');
+	src: local('☺'), url('helveticaltstd-cond-webfont.woff') format('woff'), url('helveticaltstd-cond-webfont.ttf') format('truetype'), url('helveticaltstd-cond-webfont.svg#webfontirc6xZgD') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
